@@ -1,0 +1,12 @@
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\ApiEstoqueApplication.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\controller\CategoriaController.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\controller\FornecedorController.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\controller\ProdutoController.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\model\Categoria.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\model\Estoque.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\model\Fornecedor.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\model\Produto.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\repository\CategoriaRepository.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\repository\EstoqueRepository.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\repository\FornecedorRepository.java
+C:\Dev\api_estoque\src\main\java\com\controleestoque\api_estoque\repository\ProdutoRepository.java
